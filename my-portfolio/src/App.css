@@ -1,38 +1,51 @@
-.App {
-  text-align: center;
+.twitlogo {
+  width: 35px;
+  height: 35px;
+  padding-left: 10px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.linklogo {
+  width: 35px;
+  height: 35px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.ghlogo {
+  width: 60px;
+  height: 35px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+footer {
+  padding: 10px
+}
+
+.treypic {
+  border-radius: 5px;
+  order: 1;
+  flex-shrink: 1;
+  width: 20%
+}
+
+.card {
+  width: 33%;
+  display: inline;
+}
+
+div.about-me {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  gap: 10px;
+  margin-bottom: 2em;
 }
 
-.App-link {
-  color: #61dafb;
+div.about-me p {
+  align-self: center;
+  order: 2;
+  padding: 0.5em;
+  text-align: left;
+  background-color: rgb(193, 229, 241);
+  border-radius: 5px;
+  flex-shrink: 1;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h2 {
+  text-align: center;
 }
