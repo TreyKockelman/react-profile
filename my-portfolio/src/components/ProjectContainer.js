@@ -16,7 +16,7 @@ const ProjectContainer = (props) => {
       <Project name="ReadMe Generator" src={readmeImg} link="https://github.com/TreyKockelman/09-readme-generator" alt="ReadMe Generator Pic" description="Generates a ReadMe file with the user putting in their inputs they want." class="card"/>
       <Project name="Coding Quiz" src={quizImg} link="https://github.com/TreyKockelman/04-trey-kockelman-code-quiz" alt="Quiz Logo Pic" description="Short Quiz about coding that I created early in my coding career." class="card"/>
       <Project name="Weather API Display" src={weatherImg} link="https://github.com/TreyKockelman/06-trey-kockelman-weather-api" alt="Weather Pic" description="Displays the weather for a city when a user puts in a city of their choice." class="card"/>
-      <Project name="E-Commerce Backend" src={ecommerceImg} link="https://github.com/TreyKockelman/13-trey-kockelman-ecommerce-back-end" alt="ECommerce Pic" description="Backend code for a faux e-commerce website" class="card"/>
+      <Project name="E-Commerce Backend" src={ecommerceImg} link="https://github.com/TreyKockelman/13-trey-kockelman-ecommerce-back-end" alt="ECommerce Pic" description="Backend code for a faux e-commerce website." class="card"/>
     </div>
     </>
   )
