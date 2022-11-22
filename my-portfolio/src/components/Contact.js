@@ -25,6 +25,7 @@ const Contact = () => {
         <label>Message</label>
         <input type="text" name="message" placeholder="Your message" value={userData.message} onChange={handleInputChange}/>
       </div>
+      <button type="submit">Submit</button>
     </>
   )
 

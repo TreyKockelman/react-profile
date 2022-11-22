@@ -49,3 +49,7 @@ div.about-me p {
 h2 {
   text-align: center;
 }
+
+.show {
+  background-color: red;
+}
