@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-profile/static/css/main.b4e4ed8e.css",
+    "main.js": "/react-profile/static/js/main.6546bd0d.js",
+    "static/js/787.128fc6e9.chunk.js": "/react-profile/static/js/787.128fc6e9.chunk.js",
+    "static/media/Resume.pdf": "/react-profile/static/media/Resume.e0d88afb76485faf3ce8.pdf",
+    "static/media/ecommerceimg.png": "/react-profile/static/media/ecommerceimg.3eba1db6f5e3d2d10ceb.png",
+    "static/media/passwordpic.png": "/react-profile/static/media/passwordpic.48748c1aa541831796a6.png",
+    "static/media/quizImg.png": "/react-profile/static/media/quizImg.60d2114c2bc48e75ecd7.png",
+    "static/media/trey-picture.jpg": "/react-profile/static/media/trey-picture.34771d559758e5e8ceba.jpg",
+    "static/media/teampic.png": "/react-profile/static/media/teampic.be80e445fc329ac1095e.png",
+    "static/media/TwitterLogo.png": "/react-profile/static/media/TwitterLogo.b413b75b86f226240110.png",
+    "static/media/weatherimg.png": "/react-profile/static/media/weatherimg.7602782f4a0b75d28936.png",
+    "static/media/githubLogo.png": "/react-profile/static/media/githubLogo.05525cd9027955dbe054.png",
+    "index.html": "/react-profile/index.html",
+    "main.b4e4ed8e.css.map": "/react-profile/static/css/main.b4e4ed8e.css.map",
+    "main.6546bd0d.js.map": "/react-profile/static/js/main.6546bd0d.js.map",
+    "787.128fc6e9.chunk.js.map": "/react-profile/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4e4ed8e.css",
+    "static/js/main.6546bd0d.js"
+  ]
+}
