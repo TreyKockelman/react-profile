@@ -4,7 +4,7 @@ import linkedinLogo from '../images/linkedinLogo.png'
 
 const Footer = (props) => {
   return (
-    <footer class="bg-light text-center text-lg-start ">
+    <footer class="bg-light text-center text-lg-start fixed-bottom">
       <a href="https://github.com/TreyKockelman" target="_blank">
         <img src={githubLogo} alt="GitHub Logo" class="ghlogo"/>
       </a>

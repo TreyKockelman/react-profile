@@ -51,5 +51,16 @@ h2 {
 }
 
 .show {
-  background-color: red;
+  border-radius: 5px;
+  background-color: rgb(189, 189, 189);
+  color: black;
+}
+
+.form-input {
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.contact-form {
+  margin: 8px;
 }
